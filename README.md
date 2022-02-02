@@ -1,2 +1,2 @@
-# lisptick
+# LispTick
 LispTick clients
